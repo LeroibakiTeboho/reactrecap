@@ -59,9 +59,10 @@ main
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   overflow-y: auto;
+  padding-top: 5px;
 }
 
 footer
